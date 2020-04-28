@@ -67,5 +67,5 @@ sub_logger(8,6)
 # but by creating a closure, we can see a example.log file in our folder.
 # and it should logged there that we are running a specific function with specific arguements.
 
-# this closures can be extreamly powerfull and there are countless ways where we can use them.
+# this closures can be extreamly powerful and there are countless ways where we can use them.
 # now this specific example with logging in python would probably be a better usecase for python decorator.

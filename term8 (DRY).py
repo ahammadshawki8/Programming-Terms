@@ -1,5 +1,8 @@
+# WET = Write Everything Twice
 # DRY = Don't Repeat Yourself.
 # it is a principle of software developmment, aimed at reducing repeatition of information of all kinds.
+
+# wet is totally different from dry. we have to always make our code dey.
 
 def homePage():
     print("<div class='header'>")

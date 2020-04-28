@@ -166,6 +166,8 @@ infinity_loop=myRange2(1)
 for values in infinity_loop:
     print(values)
 # so this is going to be an infinite loop.
+# we can do it by the count function from itertools module.
+
 
 # so the iterator can go on forever but it still only fetches one value at a time.
 # this is really handy when we write memory efficiant program because

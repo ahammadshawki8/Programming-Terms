@@ -1,5 +1,6 @@
-# MEMORIZATION:
-# memorization is an optimization technique used primarily to speed up computer programs 
+# MEMOIZATION:
+# first of all, note that it is not momorization.
+# memoization is an optimization technique used primarily to speed up computer programs 
 # by storing the result of expensive fucntion calls and returning the catched result 
 # when the same inputs occur again.
 
@@ -25,7 +26,7 @@ print(result)
 # since expensive_func sleeps 1 sec for every function call then this entire program should take about 4 sec.
 # Here we have computed 4 and 10 first time with sleep and that is our atrificial computing time and that fine. 
 # Because the first time it sees that it has to do that. But then when we do the same operation second time which we've already run earliar.
-# So instead of computing those values again it will be nice if we just remember those answers and remembering the answer is what memorization all about. 
+# So instead of computing those values again it will be nice if we just remember those answers and remembering the answer is what memorIzation all about. 
 # Here we are saving the result to a cache so that whenever we see the expensive function call again with the same values passed in
 # then instead of computing of values again we can just return the result that we have already computed from that cache.
 
@@ -57,7 +58,7 @@ print(result)
 
 # here it will computed onetime for 4 and one time for 10.
 # but second time it wont compute, it will return the value from dictionary.
-# and this time memorization will cut the computation time of our program in half time of previous program.
+# and this time memorIzation will cut the computation time of our program in half time of previous program.
 
-# there are more advanced thing that we can do with memorization.
-# we can set up ways to where it does memorization automatically and things like that.
+# there are more advanced thing that we can do with memorIzation.
+# we can set up ways to where it does memorIzation automatically and things like that.

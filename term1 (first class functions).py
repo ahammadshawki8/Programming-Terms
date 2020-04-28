@@ -27,7 +27,7 @@ print(f)
 print(f(5))
 
 # WHAT IS A HIGHER ORDER FUNCTION?
-# if a function acceptsother functions as arguement or return function as their results that is called a "Higher Order Function".
+# if a function accepts other functions as arguement or return function as their results that is called a "Higher Order Function".
 
 # A FUNCTION BEING PASSED BY AN ARGUEMENT:
 # very common scenario of this type function is "map" function.
