@@ -1,3 +1,4 @@
+(https://github.com/ahammadshawki8/Programming-Terms/blob/master/term.jpg)
 # Programmers use lots of Programmming Terms 
 
 Every programmer have to work in a group or a team. In, group chats they have to use lots of programming terms. So, if you dont learn these terms your group project may not be successful. So, it is high time for beginner coders to cultivate a good command over programming terms. Hopefully, this repository will help them a lot.
