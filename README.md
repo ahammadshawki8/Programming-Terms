@@ -17,4 +17,4 @@ Video Tutorials:
   3. Engineer Man - https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ
 
 # _License_
-Details can be found in [LISENCE](https://github.com/ahammadshawki8/Programming-Terms/blob/master/LISENCE)
+Details can be found in [LICENSE](https://github.com/ahammadshawki8/Programming-Terms/blob/master/LICENSE)
