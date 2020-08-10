@@ -8,10 +8,10 @@ Every programmer have to work in a group or a team. In, group chats they have to
 # The materials in this repository were collected from:
 
 Books:
-  Python Notes for Professionals https://books.goalkicker.com/PythonBook/ 
-  Data Structures and Algorithms in Python - (Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser) https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275#:~:text=This%20all%2Dnew%20Data%20Structures,that%20is%20clear%20and%20concise.
+  1. Python Notes for Professionals https://books.goalkicker.com/PythonBook/ 
+  2. Data Structures and Algorithms in Python - (Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser) https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275#:~:text=This%20all%2Dnew%20Data%20Structures,that%20is%20clear%20and%20concise.
 
 Video Tutorials:
-  Corey Schafer - https://www.youtube.com/user/schafer5
-  Dave Xiang - https://www.youtube.com/user/daveXbang
-  Engineer Man - https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ
+  1. Corey Schafer (@CoreyMSchafer) - https://www.youtube.com/user/schafer5
+  2. Dave Xiang - https://www.youtube.com/user/daveXbang
+  3. Engineer Man - https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ
